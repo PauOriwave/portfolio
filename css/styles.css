@@ -34,12 +34,12 @@ body {
 .hero-text h1 {
     font-size: 3.5rem; /* Tamaño de fuente para el nombre */
     text-shadow: 0 0 10px #1d1d1d; /* Sombra sutil para el nombre */
-    color: #333333; /* Color del nombre */
+    color: #ffffff; /* Color del nombre */
 }
 
 .profession {
     font-size: 1.5rem; /* Tamaño más pequeño para la profesión */
-    color: #777; /* Gris suave para la profesión */
+    color: #010101; /* Gris suave para la profesión */
     margin-top: 10px; /* Espacio entre el nombre y la descripción */
     line-height: 1.5; /* Espacio entre las líneas */
     text-align: center; /* Centrado del texto */
@@ -124,7 +124,7 @@ h2 {
 
 .card-subtitle {
     font-size: 1.25rem;
-    color: #7F8C8D; /* Gris suave */
+    color: #010101; /* Gris suave */
     margin-bottom: 15px;
 }
 
